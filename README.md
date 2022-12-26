@@ -15,3 +15,9 @@ O dashboard permite que os gerentes de projecto rastreiem orçamentos monetário
 - % de Projectos Activos
 - E outras
 
+
+![pf_3](https://user-images.githubusercontent.com/56509130/209583130-9f1a13c8-5a2c-477a-a9d4-0c34c0ea9566.png)
+
+![CapturarGP1](https://user-images.githubusercontent.com/56509130/209583144-1663526a-c78f-4eb6-979c-3905dc1a9dff.png)
+
+![CapturarGP2](https://user-images.githubusercontent.com/56509130/209583150-05d18f0c-04d1-491b-9a24-f9f7b3d54e59.png)
